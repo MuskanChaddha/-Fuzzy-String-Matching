@@ -1,4 +1,4 @@
-Installation
+# Installation
 Using PIP via PyPI
 
 pip install fuzzywuzzy
